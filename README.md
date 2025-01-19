@@ -7,4 +7,4 @@ The Lambda function fetches all EBS snapshots owned by the same account ('self')
 - Snapshot Analysis: Identify snapshots that are no longer associated with active resources.
 - Cost Insights: Calculate the potential cost savings of removing stale snapshots.
 - Automation Support: Ready-to-use scripts for cleaning up unused snapshots.
-- 
+
